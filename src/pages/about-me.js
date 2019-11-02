@@ -12,7 +12,7 @@ const AboutMe = props => (
   <Layout>
     <SEO
       title="About"
-      description="Raquel M Smith is a front-end developer with a passion for the mobile web."
+      description="Raquel M Smith is a product manager and front-end developer with a passion for the mobile web."
     />
     <div
       css={css`
